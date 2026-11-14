@@ -65,11 +65,7 @@ Student-Registration-Form/
 
 ![Registration Form](screenshots/empty-form.png)
 
-### 2. Validation Error Messages
-
-![Validation Errors](screenshots/validation-error.png)
-
-### 3. Successful Registration
+### 2. Successful Registration
 
 ![Success Message](screenshots/success-message.png)
 
